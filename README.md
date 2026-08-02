@@ -1,5 +1,5 @@
 # Directory Preview
-***Below are a few examples of some of my previous work in this area. If you'd like to see more photos on the topic select from the uploaded folders above.***
+***Below are a few examples of some of my previous work in this area. If you'd like to see more photos on the topic, select from the uploaded folders above.***
 
 ## PCB Board Assemblies 
 - **RF Quad board Assembly**
